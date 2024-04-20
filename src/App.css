@@ -1,0 +1,30 @@
+body{
+  background-color: #17012b;
+  color: #fff;
+}
+.box{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 200px ;
+}
+ button{
+  background-color: #437e44;
+  border: 0;
+  padding: 7px 20px;
+  color: white;
+  font-size: 15px;
+  border-radius: 5px;
+}
+
+.del{
+  border: 0;
+  padding: 7px 20px;
+  color: white;
+  font-size: 15px;
+  border-radius: 5px;
+  background-color: #ff1100 !important;
+  border-radius: 5px;
+  margin: 0 10px;
+}
+
